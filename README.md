@@ -1,2 +1,2 @@
-# AriKwon-Chating-Lamp
-A lamp shows various moving gesture once heard human's voice and has ability to talk to people freely.
+# “U“ Chatbot
+A chatbot that introduces BUPT by telling stories of beiyouren.
